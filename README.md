@@ -32,7 +32,7 @@ I specialize in building **autonomous AI agents**, **cloud-agnostic microservice
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=csa7mdm&theme=radical" alt="streak stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=csa7mdm&show_icons=true&theme=radical" alt="stats graph" />
   <br/>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=csa7mdm&layout=compact&theme=radical" alt="languages graph" />
 </div>
