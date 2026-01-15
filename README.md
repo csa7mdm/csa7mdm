@@ -197,7 +197,7 @@ Multi-LLM powered video categorization and intelligent recommendations via OpenR
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=csa7mdm&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=csa7mdm&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
