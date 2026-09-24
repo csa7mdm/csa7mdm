@@ -12,11 +12,10 @@
 #### Flagship work on GitHub
 | | |
 |---|---|
-| [**DotNetDevMCP**](https://github.com/csa7mdm/DotNetDevMCP) | MCP server for .NET — Roslyn navigation, refactor, affected tests |
+| [**DotNetDevMCP**](https://github.com/csa7mdm/DotNetDevMCP) | Roslyn-based .NET tooling for code navigation, refactoring, affected-test selection, and build/test workflows; includes automated tests and published releases. |
 | [**aspire-baseline**](https://github.com/csa7mdm/aspire-baseline) | Production .NET Aspire baseline for distributed microservices |
 | [**opentelemetry-dotnet-observability**](https://github.com/csa7mdm/opentelemetry-dotnet-observability) | OTel + Prometheus/Loki/Tempo/Grafana stack |
 | [**performance-poc**](https://github.com/csa7mdm/performance-poc) | PostgreSQL vs RabbitMQ queuing benchmarks |
-| [**NexusBank**](https://github.com/csa7mdm/NexusBank) | Cloud-agnostic digital banking learning platform |
 | [**orderhub-\***](https://github.com/csa7mdm/orderhub-order-processing) | Order/payment workflow demos |
 
 #### Currently sharpening
