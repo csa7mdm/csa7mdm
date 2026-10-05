@@ -18,6 +18,12 @@
 | [**performance-poc**](https://github.com/csa7mdm/performance-poc) | PostgreSQL vs RabbitMQ queuing benchmarks |
 | [**orderhub-\***](https://github.com/csa7mdm/orderhub-order-processing) | Order/payment workflow demos |
 
+#### Support my open-source work
+
+I build tools that help AI coding agents work with .NET code. My main open-source focus is [**DotNetDevMCP**](https://github.com/csa7mdm/DotNetDevMCP).
+
+If this work helps you or your team, [**sponsor its continued development**](https://github.com/sponsors/csa7mdm). Your support helps sustain maintenance, broader testing, and clearer documentation. Bug reports, reproducible examples, and contributions are welcome too.
+
 #### Currently sharpening
 Payment reliability patterns · CQRS/event sourcing implementations · Kubernetes · written architecture (ADRs)
 
